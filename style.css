@@ -1,0 +1,10 @@
+div p{
+    color: brown;
+}
+div a{
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    text-decoration: none;
+}
